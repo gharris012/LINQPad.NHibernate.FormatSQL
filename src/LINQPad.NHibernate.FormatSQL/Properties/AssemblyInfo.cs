@@ -6,10 +6,10 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("LINQPad.NHibernate.FormatSQL")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Based on LINQPad.NHibernate.FormatSQL by Tom Chantler at \r\nhttps://github.com/TomChantler/LINQPad.NHibernate.FormatSQL")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("LINQPad.NHibernate.FormatSQL")]
+[assembly: AssemblyProduct("LINQPad.NHibernate.FormatSQL.NetCore31")]
 [assembly: AssemblyCopyright("Copyright © Tom Chantler 2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.2.0")]
-[assembly: AssemblyFileVersion("1.0.2.0")]
+[assembly: AssemblyVersion("1.0.3.0")]
+[assembly: AssemblyFileVersion("1.0.3.0")]
